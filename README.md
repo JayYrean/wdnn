@@ -1,1 +1,1 @@
-# nc_wdnn
+# wdnn
